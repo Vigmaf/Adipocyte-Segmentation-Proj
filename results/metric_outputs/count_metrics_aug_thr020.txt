@@ -1,0 +1,29 @@
+                                             <strong>imageFile</strong>                                                <strong>Source</strong>       <strong>GTcount</strong>    <strong>PredCount</strong>    <strong>AbsError</strong>    <strong>PctError</strong>
+    <strong>____________________________________________________________________________________________</strong>    <strong>___________</strong>    <strong>_______</strong>    <strong>_________</strong>    <strong>________</strong>    <strong>________</strong>
+
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C10-1120_7.tif"            "MTC2"            39          38           1        2.5641 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C11-088_10.tif"            "MTC2"            64          66           2         3.125 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C11-088_9.tif"             "MTC2"            71          61          10        14.085 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C11-1182_7.tif"            "MTC2"             1           5           4           400 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C11-849_8.tif"             "MTC2"            43          39           4        9.3023 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C11-849_9.tif"             "MTC2"            54          46           8        14.815 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images MTC2\C12-2888_6.tif"            "MTC2"            85          77           8        9.4118 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images omental part 1\12245_1.tif"     "omental_1"       90          79          11        12.222 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images omental part 1\12245_10.tif"    "omental_1"      111         106           5        4.5045 
+    "C:\Users\Admin.VIG\Desktop\MIA_DL_PROJECT\images\images\images omental part 1\12245_11.tif"    "omental_1"      131         118          13        9.9237 
+
+
+===test count suymary (thr = 0.20)===
+Mean GT count: 80.72
+Mean predicted count: 79.33
+Mean absolute erro: 5.39
+Median absolute error: 4.00
+Mean percent error: 13.00%
+Median percent error: 6.02%
+      <strong>Source</strong>       <strong>MeanGT</strong>    <strong>MeanPred</strong>    <strong>MeanAbsError</strong>    <strong>MeanPctError</strong>
+    <strong>___________</strong>    <strong>______</strong>    <strong>________</strong>    <strong>____________</strong>    <strong>____________</strong>
+
+    "MTC2"             51     47.429        5.2857          64.758   
+    "omental_1"    84.183      83.05           5.4          6.9584   
+
+saved solov2_test_count_metrics.mat
