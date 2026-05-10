@@ -1,0 +1,53 @@
+# =====================================
+# Dataset files
+# =====================================
+images/
+masks/
+*.zip
+*.7z
+*.rar
+
+# =====================================
+# MATLAB generated data/model files
+# =====================================
+*.mat
+*.asv
+*.fig
+*.mix.autosave
+
+# SOLOv2 trained models/checkpoints
+results/cv_aug_models/
+**/checkpoints*/
+**/checkpoint*/
+
+# =====================================
+# Large temp/cache files
+# =====================================
+temp/
+tmp/
+cache/
+*.log
+
+# =====================================
+# OS/editor files
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# =====================================
+# keeping final lightweight resutls
+# =====================================
+!results/
+!results/metric_outputs/
+!results/metric_outputs/*.csv
+!results/results_summary.md
+!results/final_metrics_table.csv
+
+!results/prediction_examples/
+!results/prediction_examples/*.png
+!results/training_plots/
+!results/training_plots/*.png
